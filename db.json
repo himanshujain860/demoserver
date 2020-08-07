@@ -1,8 +1,28 @@
 {
   "posts": [
     {
-      "id" : "him",
-      "title": "asddf"
+      "id": "him",
+      "serviceName": "asddf",
+      "displayName": "id",
+      "services": [
+        "LNOne",
+        "EBook"
+      ],
+      "internalAccess": [
+        {
+          "group_name": "Cases",
+          "search_categories": [
+            {
+              "category_name": "Judgments",
+              "search_child_categories": [
+                {
+                  "child_category_name": "High Court"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "profile": {
