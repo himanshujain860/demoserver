@@ -2,8 +2,8 @@
   "posts": [
     {
     "id": 1,
-    "services": ["EBook", "LService"],
-      "internalAccess": "[\n        {\n            \"group_name\": \"Cases\",\n            \"search_categories\": [\n                {\n                    \"category_name\": \"Judgments\",\n                    \"search_child_categories\": [\n                        {\n                            \"child_category_name\": \"High Court\"\n                        }\n                      ]\n                }\n              ]\n        }\n        ]"
+    "serviceName": "EBook",
+      "displayName": "Hello"
   }
   ],
   "profile": {
