@@ -2,7 +2,22 @@
   "posts": [
     {
     "id": 1,
-    "services": ["EBook", "LService"]
+    "services": ["EBook", "LService"],
+      "internalAccess": [
+        {
+            "group_name": "Cases",
+            "search_categories": [
+                {
+                    "category_name": "Judgments",
+                    "search_child_categories": [
+                        {
+                            "child_category_name": "High Court"
+                        }
+                      ]
+                }
+              ]
+        }
+        ]
   }
   ],
   "profile": {
