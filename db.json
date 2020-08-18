@@ -1,9 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "services": "LegalResearch"
-    }
+    "id": 1,
+    "services": [
+      "LegalResearch",
+      "EBook"
+    ]
+  }
   ],
   "profile": {
     "name": "typicode"
