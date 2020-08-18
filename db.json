@@ -2,16 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "services": [
-        "LegalResearch",
-        "EBook"
-    ]
-    }
-  ],
-  "messages": [
-    {
-      "id": 1,
-      "services": "Messageee"
+      "services": "LegalResearch"
     }
   ],
   "profile": {
