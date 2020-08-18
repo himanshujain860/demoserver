@@ -8,6 +8,12 @@
     ]
     }
   ],
+  "messages": [
+    {
+      "id": 1,
+      "services": "Messageee"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
