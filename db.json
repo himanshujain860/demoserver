@@ -2,7 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "services": "hello"
+      "services": [
+        "LegalResearch",
+        "EBook"
+    ]
     }
   ],
   "profile": {
