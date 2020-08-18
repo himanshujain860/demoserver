@@ -2,7 +2,7 @@
   "posts": [
     {
     "id": 1,
-    "services": ["EBook", "Two"]
+    "services": "EBook"
   }
   ],
   "profile": {
